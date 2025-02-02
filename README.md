@@ -4,13 +4,11 @@ An advocate of data-driven approaches with expertise on implementing analytical 
 
 - 👀 I’m interested in Bayesian, Computational, and Spatial Statistics. Causal Inference, Data Science, Machine Learning and Deep Learning are also topics of my interest.
  
-- 🌱 I’m currently learning Data Engineering, Analytics Engineering, Data Science, Machine Learning Engineering.
+- 🌱 I’m currently learning Data Engineering, Analytics Engineering, Data Science, and Machine Learning Engineering.
   
 - 💞️ I’m looking to collaborate on Bayesian and Spatial Statistics.
   
-- 📫 How to reach me? Please feel free to reach out to me via email (roman@sigma.iimas.unam.mx) or LinkedIn (in/romanaguirreperez/).
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: ...
+- 📫 Please feel free to reach out to me via email (roman@sigma.iimas.unam.mx) or LinkedIn (https://www.linkedin.com/in/romanaguirreperez/).
 
 <!---
 Roman-AguirrePerez/Roman-AguirrePerez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
